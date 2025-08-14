@@ -9,7 +9,9 @@
  
   - [Computer Support Specialist A+](https://imgur.com/gallery/comp-support-specialist-rF3WWXV)
  
-<h2>👨‍💻 networking projects:</h2>
+<h2>👨‍💻 Networking Projects:</h2>
+
+- [Basic Switch Configuration](https://github.com/LaDerrickReeves/BasicSwitchConfiguration/blob/main/README.md)
 
 <h2>👨‍💻 cyber security projects:</h2>
 
