@@ -16,24 +16,18 @@
 <h2>👨‍💻 cyber security projects:</h2>
 
 - [Incident Report Analysis](https://github.com/LaDerrickReeves/sample-incident-report-/blob/main/README.md)
+- [Scope, goals, and risk assessment report](https://github.com/LaDerrickReeves/-goals-and-risk-assessment-report-/blob/main/README.md)
 
 
-<h2>👨‍💻 IT support projects:</h2>  
+## Contact
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/laderrick-reeves-7a8698372/)
 
 
 
-<h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-<h2> 🤳 Connect with me:</h2
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/laderrick-reeves-7a8698372/)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/@DerrickDoseDos)
 
 
 
