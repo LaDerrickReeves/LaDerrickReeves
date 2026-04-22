@@ -32,7 +32,7 @@
     <a href="https://coursera.org/share/2c76f1387ff39159d1bcb77f67794c5c" target="_blank">View Certificate</a>
   </li>
 
-<li>
+  <li>
     <b>CompTIA Security+</b><br>
     <a href="https://www.credly.com/badges/e531a6ef-287c-4ae1-9572-a9a510257547" target="_blank">View Certificate</a>
   </li>
@@ -42,23 +42,14 @@
 
 - [Basic Switch Configuration](https://github.com/LaDerrickReeves/BasicSwitchConfiguration/blob/main/README.md)
 
-<h2>👨‍💻 cyber security projects:</h2>
+<h2>👨‍💻 Cyber Security Projects:</h2>
 
+- [Viewing Logs: Linux Forensic Analysis](https://github.com/LaDerrickReeves/Viewing-Logs/blob/main/README.md)
+- [Incident Response: Collecting Volatile Data](https://github.com/LaDerrickReeves/Collecting-Volatile-Data/tree/main)
 - [Incident Report Analysis](https://github.com/LaDerrickReeves/sample-incident-report-/blob/main/README.md)
 - [Scope, goals, and risk assessment report](https://github.com/LaDerrickReeves/-goals-and-risk-assessment-report-/blob/main/README.md)
-- [Collecting Volatile Data](https://github.com/LaDerrickReeves/Collecting-Volatile-Data/tree/main)
 
+<br/>
 
 ## Contact
 [Connect with me on LinkedIn](https://www.linkedin.com/in/laderrick-reeves-7a8698372/)
-
-
-
-
-
-
-
-
-
-
-
