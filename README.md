@@ -44,10 +44,11 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
+- [Incident Report Analysis: DDoS Attack (ICMP Flood)](https://github.com/LaDerrickReeves/Incident-Report-Analysis/blob/main/README.md)
 - [Viewing Logs: Linux Forensic Analysis](https://github.com/LaDerrickReeves/Viewing-Logs/blob/main/README.md)
 - [Incident Response: Collecting Volatile Data](https://github.com/LaDerrickReeves/Collecting-Volatile-Data/tree/main)
-- [Incident Report Analysis](https://github.com/LaDerrickReeves/sample-incident-report-/blob/main/README.md)
-- [Scope, goals, and risk assessment report](https://github.com/LaDerrickReeves/-goals-and-risk-assessment-report-/blob/main/README.md)
+- [Scope, Goals, and Risk Assessment Report](https://github.com/LaDerrickReeves/-goals-and-risk-assessment-report-/blob/main/README.md)
+- [Incident Report Analysis ](https://github.com/LaDerrickReeves/sample-incident-report-/blob/main/README.md)
 
 <br/>
 
