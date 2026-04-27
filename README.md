@@ -41,6 +41,7 @@
 <h2>👨‍💻 Networking Projects:</h2>
 
 - [Basic Switch Configuration](https://github.com/LaDerrickReeves/BasicSwitchConfiguration/blob/main/README.md)
+- [Basic Router Configuration](https://github.com/LaDerrickReeves/Basic-Router-Configuration)
 - [Configuring DHCPv6 (Stateless, Stateful, and Relay)](https://github.com/LaDerrickReeves/Configure-DHCPv6/blob/main/README.md)
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
