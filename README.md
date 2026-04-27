@@ -41,6 +41,7 @@
 <h2>👨‍💻 Networking Projects:</h2>
 
 - [Basic Switch Configuration](https://github.com/LaDerrickReeves/BasicSwitchConfiguration/blob/main/README.md)
+- [Configuring DHCPv6 (Stateless, Stateful, and Relay)](https://github.com/LaDerrickReeves/Configure-DHCPv6/blob/main/README.md)
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
@@ -48,7 +49,7 @@
 - [Viewing Logs: Linux Forensic Analysis](https://github.com/LaDerrickReeves/Viewing-Logs/blob/main/README.md)
 - [Incident Response: Collecting Volatile Data](https://github.com/LaDerrickReeves/Collecting-Volatile-Data/tree/main)
 - [Scope, Goals, and Risk Assessment Report](https://github.com/LaDerrickReeves/-goals-and-risk-assessment-report-/blob/main/README.md)
-- [Incident Report Analysis ](https://github.com/LaDerrickReeves/sample-incident-report-/blob/main/README.md)
+- [Incident Report Analysis](https://github.com/LaDerrickReeves/sample-incident-report-/blob/main/README.md)
 
 <br/>
 
