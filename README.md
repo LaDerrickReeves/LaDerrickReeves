@@ -43,16 +43,18 @@
 - [Basic Switch Configuration](https://github.com/LaDerrickReeves/BasicSwitchConfiguration/blob/main/README.md)
 - [Basic Router Configuration](https://github.com/LaDerrickReeves/Basic-Router-Configuration)
 - [Configuring DHCPv6 (Stateless, Stateful, and Relay)](https://github.com/LaDerrickReeves/Configure-DHCPv6/blob/main/README.md)
+- [Configure IPv4 and IPv6 Static and Default Routes](https://github.com/LaDerrickReeves/Configure-IPv4-and-IPv6-Static/blob/main/README.md)
+- [Troubleshoot IPv4 and IPv6 Static and Default Routes](https://github.com/LaDerrickReeves/Troubleshoot-IPv4-and-IPv6-Static-and-Default-Routes/blob/main/README.md)
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - [Incident Report Analysis: DDoS Attack (ICMP Flood)](https://github.com/LaDerrickReeves/Incident-Report-Analysis/blob/main/README.md)
-- [Viewing Logs: Linux Forensic Analysis](https://github.com/LaDerrickReeves/Viewing-Logs/blob/main/README.md)
-- [Incident Response: Collecting Volatile Data](https://github.com/LaDerrickReeves/Collecting-Volatile-Data/tree/main)
 - [Scope, Goals, and Risk Assessment Report](https://github.com/LaDerrickReeves/-goals-and-risk-assessment-report-/blob/main/README.md)
 - [Incident Report Analysis](https://github.com/LaDerrickReeves/sample-incident-report-/blob/main/README.md)
-
+- [Performing Active Reconnaissance](https://github.com/LaDerrickReeves/Performing-Active-Reconnaissance/blob/main/README.md)
+- [Viewing Logs: Linux Forensic Analysis](https://github.com/LaDerrickReeves/Viewing-Logs/blob/main/README.md)
+- [Incident Response: Collecting Volatile Data](https://github.com/LaDerrickReeves/Collecting-Volatile-Data/tree/main)
 <br/>
 
-## Contact
-[Connect with me on LinkedIn](https://www.linkedin.com/in/laderrick-reeves-7a8698372/)
+<h2>Contact</h2>
+<a href="https://www.linkedin.com/in/laderrick-reeves-7a8698372/" target="_blank">Connect with me on LinkedIn</a>
