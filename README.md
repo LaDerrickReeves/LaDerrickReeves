@@ -46,14 +46,15 @@
 - [Configure IPv4 and IPv6 Static and Default Routes](https://github.com/LaDerrickReeves/Configure-IPv4-and-IPv6-Static/blob/main/README.md)
 - [Troubleshoot IPv4 and IPv6 Static and Default Routes](https://github.com/LaDerrickReeves/Troubleshoot-IPv4-and-IPv6-Static-and-Default-Routes/blob/main/README.md)
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Incident Report Analysis: DDoS Attack (ICMP Flood)](https://github.com/LaDerrickReeves/Incident-Report-Analysis/blob/main/README.md)
-- [Scope, Goals, and Risk Assessment Report](https://github.com/LaDerrickReeves/-goals-and-risk-assessment-report-/blob/main/README.md)
-- [Incident Report Analysis](https://github.com/LaDerrickReeves/sample-incident-report-/blob/main/README.md)
-- [Performing Active Reconnaissance](https://github.com/LaDerrickReeves/Performing-Active-Reconnaissance/blob/main/README.md)
-- [Viewing Logs: Linux Forensic Analysis](https://github.com/LaDerrickReeves/Viewing-Logs/blob/main/README.md)
-- [Incident Response: Collecting Volatile Data](https://github.com/LaDerrickReeves/Collecting-Volatile-Data/tree/main)
+- [Digital Forensics & Evidence Analysis (Autopsy)](https://github.com/LaDerrickReeves/Digital-Forensics-with-Autopsy/blob/main/README.md)
+- [Incident Response: Volatile Data Collection](https://github.com/LaDerrickReeves/Collecting-Volatile-Data/tree/main)
+- [DDoS Attack Analysis (ICMP Flood Investigation)](https://github.com/LaDerrickReeves/Incident-Report-Analysis/blob/main/README.md)
+- [Security Incident Report Analysis](https://github.com/LaDerrickReeves/sample-incident-report-/blob/main/README.md)
+- [Risk Assessment & Security Planning Report](https://github.com/LaDerrickReeves/-goals-and-risk-assessment-report-/blob/main/README.md)
+- [Active Reconnaissance & Enumeration](https://github.com/LaDerrickReeves/Performing-Active-Reconnaissance/blob/main/README.md)
+- [Linux Log Analysis (Forensics Investigation)](https://github.com/LaDerrickReeves/Viewing-Logs/blob/main/README.md)
 <br/>
 
 <h2>Contact</h2>
