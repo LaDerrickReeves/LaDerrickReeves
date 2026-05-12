@@ -5,7 +5,7 @@
 <ul>
   <li>
     <b>Computer Support Specialist, AAS</b><br>
-    Expected Graduation: May 2026
+    
   </li>
 </ul>
 
