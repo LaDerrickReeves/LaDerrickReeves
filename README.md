@@ -58,6 +58,7 @@
 - [Risk Assessment & Security Planning Report](https://github.com/LaDerrickReeves/-goals-and-risk-assessment-report-/blob/main/README.md)
 - [Active Reconnaissance & Enumeration](https://github.com/LaDerrickReeves/Performing-Active-Reconnaissance/blob/main/README.md)
 - [Linux Log Analysis (Forensics Investigation)](https://github.com/LaDerrickReeves/Viewing-Logs/blob/main/README.md)
+- [Win Backups and Disaster Recovery](https://github.com/LaDerrickReeves/Performing-Backups/blob/main/README.md)
 <br/>
 
 <h2>Contact</h2>
