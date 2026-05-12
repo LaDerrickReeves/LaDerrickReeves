@@ -10,8 +10,11 @@
 </ul>
 
 <h2>Certifications</h2>
+<li>
+  <b>Certified Nurse Aide (CNA)</b><br>
+  <a href="https://ksdadsv7prod.glsuite.us/GLSuiteWeb/Clients/KSDADS/Private/LicenseeDetails.aspx?EntityID=1652994" target="_blank">View License</a>
+</li>
 
-<ul>
   <li>
     <b>Google IT Support</b><br>
     <a href="https://coursera.org/share/b0625a46ffc0914765519707923478e4" target="_blank">View Certificate</a>
